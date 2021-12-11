@@ -1,4 +1,3 @@
-%%writefile nn_gpu3.cu
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
